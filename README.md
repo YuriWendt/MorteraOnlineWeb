@@ -1,16 +1,10 @@
-Gesior-AAC editado originalmente por Felipe Monteiro e fixado por mim Marco Oliveira.</p>
-Site tem como foco seguir o layout oficial da cipsoft e atender as necessidades da cominidade open-tibia.
+![alt text](https://i.imgur.com/uP5e1Jw.gif)
 
-Nosso site está aberto oficialmente em www.malveraglobal.com.br onde pode ser visualizado por completo.
+[![Build status](https://ci.appveyor.com/api/projects/status/91062aadnesgwa4d?svg=true)](https://ci.appveyor.com/project/malucooo/otxserver-new)
+[![Build Status](https://travis-ci.com/malucooo/otxserver-new.svg?branch=master)](https://travis-ci.com/malucooo/otxserver-new)
 
---------------------------------
+## Web Site de Tibia Mortera Online
 
-Database compativel com a ultima versão da OTX na qual é mantido por Érick Nunes e por seus colaboradores:
-https://github.com/malucooo/Otxserver-New
+servidor de Tibia version 11x baseado em OTX Server
 
---------------------------------
-
-Meu Contato:
-Skype: marco.olivers</p>
-Email: marcomoa@hotmail.com</p></p>
-Whatsapp: +55 (38) 99186-3004</p>
+Download SDK (Software Development Kit) for OTX Server [DOWNLOAD HERE](https://gitlab.com/guilhermesidney/cliente10/-/archive/master/cliente10-master.zip)
